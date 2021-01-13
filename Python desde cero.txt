@@ -1,0 +1,8 @@
+C:\Users\user\Cookies\desktop\pythondesdecero>
+
+##Usar 'cookies' antes de entrar al escritorio## 
+
+
+##En numeros el operador de potencia es "**"##
+
+2**3 = 8
